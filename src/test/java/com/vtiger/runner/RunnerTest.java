@@ -20,7 +20,6 @@ import cucumber.api.junit.Cucumber;
 				 //tags = {"~@Smoke","~@Sanity"},////And
 				 monochrome = true)
 
-//comment supriya
 public class RunnerTest {
 
 }
