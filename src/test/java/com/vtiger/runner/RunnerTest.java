@@ -21,7 +21,7 @@ import cucumber.api.junit.Cucumber;
 				 monochrome = true)
 
 //comment
-
+//new comment
 public class RunnerTest {
 
 }
